@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Agafa\'m</string>
+    <string name="action_newgame">Joc nou</string>
+    <string name="menu">Menú</string>
+    <string name="help">Ajuda</string>
+    <string name="settings">Pantalla opcions</string>
+    <string name="game">Pantalla del joc</string>
+    <string name="scores">Pantalla de puntuació</string>
+    <string name="app_logo_top">Fuig, fuig</string>
+    <string name="app_logo_bottom">dels zombis</string>
+    <string name="app_version_info">Version 0.0.1\nCopyright © 2013 Tots els drets reservats.</string>
+    <string name="menu_item_settings">Preferències</string>
+    <string name="menu_item_play">Juga</string>
+    <string name="menu_item_scores">Puntuació</string>
+    <string name="menu_item_help">Ajuda</string>
+    <string name="action_showpath">Mostra camí</string>
+    <string name="action_help">Ajuda</string>
+</resources>
